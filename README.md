@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrtcnmrn5
-- 👀 I’m interested in Front-End technologies and neural networks.
+- 👋 Hi, I’m Mertcan Moran
+- 👀 I’m interested in Front-End technologies and Neural networks.
 - 🌱 I’m currently learning React
 
 <!---
